@@ -372,24 +372,24 @@
       "condition": "探索荒野的每一处。"
     },
     "dave_death": {
-      "name": "Dave-y Jones Locker",
-      "condition": "Stab Dave Specter in the White Desert"
+      "name": "戴维琼斯的箱子",
+      "condition": "用菜刀捅死White Dessert的Dave Specter"
     },
     "forest_namekuji": {
-      "name": "Boo and Goo",
-      "condition": "Interact with the two types of Namekuji in Forest World"
+      "name": "惊吓与粘液",
+      "condition": "调查森林世界的两种Namekuji"
     },
     "white_tulip": {
-      "name": "Rain and Flowers",
-      "condition": "Visit the white tulip passage between Sky Garden and Ghost World"
+      "name": "雨与花",
+      "condition": "到达Sky Garden和Ghost World之间的郁金香通道"
     },
     "barracks_settlement_pirori": {
-      "name": "Travelin' with Pirori",
-      "condition": "Interact with the Pirori that takes you to FC World B"
+      "name": "与Pirori同行",
+      "condition": "调查将你带到FC世界B的Pirori"
     },
     "jellyfishes_woods": {
-      "name": "In Your Dreams",
-      "condition": "Interact with the Jellyfishes in Dense Woods A and Dense Woods B"
+      "name": "于汝梦中",
+      "condition": "调查Dense Woods A和Dense Woods B的收尸水母"
     }
   },
   "2kki": {
@@ -2943,46 +2943,46 @@
       "condition": "抵达 Cotton Candy Haven。"
     },
     "sunset_sanctum_ramen": {
-      "name": "Ramen Shop at the End of the World",
-      "description": "Lovely view, huh?",
-      "condition": "Buy some ramen at Sunset Sanctem"
+      "name": "世界尽头的拉面店",
+      "description": "风景不错，是吧？",
+      "condition": "在Sunset Sanctem买到拉面"
     },
     "creature_solstice_forest": {
-      "name": "Swimming Eye",
-      "condition": "Encounter the swimming eye creature in Solstice Forest"
+      "name": "游动的眼睛",
+      "condition": "在Solstice Forest遇到游泳的眼睛生物"
     },
     "antiquated_bathhouse": {
-      "name": "Antiquated Mirror",
-      "condition": "Enter the Antiquated Bathhouse in Oblique Hell"
+      "name": "古董镜子",
+      "condition": "进入Oblique Hell里的老式浴室"
     },
     "pink_red_beach": {
-      "name": "Roseate Shore",
-      "description": "Enjoy the beautiful sunset.",
-      "condition": "Visit the pink beach in Blood Red Beach"
+      "name": "玫瑰色的海岸",
+      "description": "享受美丽的夕阳",
+      "condition": "到达Blood Red Beach的粉色海岸"
     },
     "fish_lost_shoal": {
-      "name": "Meet the Jimmy",
-      "description": "He's excited to meet you too!",
-      "condition": "Encounter the purple fish in Lost Shoal and go close to him"
+      "name": "见见Jimmy",
+      "description": "他也很高兴见到你！",
+      "condition": "遇到Lost Shoal的紫色大鱼并接近它"
     },
     "clown_celestial_night": {
-      "name": "Night Reception",
-      "description": "Aww, so cute!",
-      "condition": "Encounter the clown holding a moon ballon in Celestial Night"
+      "name": "夜间接待",
+      "description": "可爱捏！",
+      "condition": "遇到Celestial Night拿着月亮气球的小丑"
     },
     "owl_astronomy_hall": {
-      "name": "Hoot Hoot!",
-      "condition": "Use the Wolf effect to scare the owl in Astronomical Gallery"
+      "name": "咕唔咕！",
+      "condition": "用狼效果惊吓Astronomical Gallery的猫头鹰"
     },
     "hourglass_desert": {
-      "name": "The Hourglass Desert Scale",
-      "description": "A wanderer in a desert of hourglass",
-      "condition": "Enter Hourglass Desert"
+      "name": "穿越沙漏沙漠",
+      "description": "时之沙漠的流浪者",
+      "condition": "到达Hourglass Desert"
     },
     "holiday_hell_fish": {
-      "name": "Gone Fishing",
-      "description": "Fish love me, dreams fear me...",
-      "condition": "See the night scenery with the fishing boat in Holiday Hell"
+      "name": "去钓鱼",
+      "description": "鱼儿爱我，梦境怕我……",
+      "condition": "在Holiday Hell看到渔船上的夜景"
     },
     "doppelganger_room": {
       "name": "Static Look-alike",
