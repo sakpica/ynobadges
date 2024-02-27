@@ -3600,9 +3600,9 @@
       "condition": "抵达 Corrupt Beach。"
     },
     "ocean_floor_dragon": {
-      "name": "Sea Dragon",
-      "description": "What a pretty creature...",
-      "condition": "See the sea dragon in Ocean Floor"
+      "name": "海龙",
+      "description": "多么美丽的生物……",
+      "condition": "看到Ocean Floor的海龙"
     }
   },
   "deepdreams": {
@@ -3789,7 +3789,7 @@
     },
     "hollow_head": {
       "name": "头脑空空",
-      "description": "\"你必须找到藏在医院里的 heeh raura effef，这样你才能治愈 suswew 的 glilg！” - Jojogape。",
+      "description": "“里必须找到肠在医院里的自疗光环笑果，介样里柴能治愈地Fe的耨洞！” - Jojogape。",
       "condition": "从 Subway 抵达 The Void。"
     },
     "zapnef_all_clear": {
@@ -4304,18 +4304,18 @@
       "condition": "使用 Brambles Key 与 Ruby 交互。"
     },
     "greek_maze_dog": {
-      "name": "Guardian Dog",
-      "description": "Meet dogs in a maze! U ´꓃ ` U",
-      "condition": "See the dog statues in Greek Maze"
+      "name": "看门狗",
+      "description": "在迷宫里见到狗狗！ U ´꓃ ` U",
+      "condition": "看到Greek Maze的狗雕像"
     },
     "well_chief": {
-      "name": "Chief of the Well",
-      "condition": "See the person with the long neck in the Mosquies' Village and enter in the well of the Dark Lands"
+      "name": "井之主",
+      "condition": "看到Mosquies' Village里的长颈人并进入Dark Lands的井"
     },
     "cartoonboy": {
-      "name": "Color Theory",
-      "description": "I like it, Picasso!",
-      "condition": "Score 100 points in Cartoon Boy"
+      "name": "色彩理论",
+      "description": "我爱它，毕加索！",
+      "condition": "在Cartoon Boy里获得100分"
     }
   },
   "muma": {
@@ -5095,118 +5095,118 @@
   },
   "tsushin": {
     "moon_flight": {
-      "name": "Exploding Humans",
-      "description": "I usually don't like the smell of fireworks, but something is EXTRA off about this.",
-      "condition": "Trigger the Human Fireworks flight event."
+      "name": "人体炸弹",
+      "description": "我平时就不喜欢烟火味，但这有点不对劲得*过分*。",
+      "condition": "触发人体烟花飞行事件"
     },
     "rooftops_lights_off": {
-      "name": "Lights Off",
-      "description": "So beautiful...",
-      "condition": "Turn off the lights and view the Rooftops at night time."
+      "name": "关灯",
+      "description": "真美啊……",
+      "condition": "关灯欣赏Rooftops的夜景"
     },
     "meat_world_piggy_bank": {
       "name": "Meat Inside a Pig Made of Meat Inside a Pig Made of Meat",
       "description": "Pig-ception.",
-      "condition": "Enter the broken piggy bank in Meat World."
+      "condition": "进入Meat World里坏掉的猪形储蓄罐"
     },
     "giant_catgirl": {
-      "name": "Giant Cat Girl",
+      "name": "巨大猫娘",
       "description": "zzzzz......",
-      "condition": "Encounter the giant cat girl in the Zombie Apartment."
+      "condition": "在Zombie Apartment遇到巨大猫娘"
     },
     "cake_tower_maid": {
-      "name": "Catch a Glimpse of Beauty",
-      "description": "Let me see what you look like~",
-      "condition": "Reveal the transparent maid's true appearance in the Cake Tower."
+      "name": "一瞥美人",
+      "description": "让我康康你长得好不好看",
+      "condition": "发现Cake Tower的透明女仆真正的样子"
     },
     "factory_pink_boss": {
       "name": "Pink Boss",
-      "condition": "Encounter the pink-haired maiden with a red ribbon in the Factory."
+      "condition": "在Factory遇到戴着红色蝴蝶结的粉发女孩"
     },
     "detective_wormiko": {
-      "name": "Famous Detective Wormiko",
-      "description": "The investigation begins!",
-      "condition": "Trigger the Detective effect's action."
+      "name": "名侦探虫虫子",
+      "description": "调查开始！",
+      "condition": "触发侦探效果的动作"
     },
     "abandoned_pool_mural": {
-      "name": "Abandoned Memory",
-      "description": "Things changed, you see. They don't sleep on the beach anymore...",
-      "condition": "Approach the mural on the wall in the Abandoned Swimming Pool."
+      "name": "失落的记忆",
+      "description": "你看，事情变了。他们不再睡在海滩上了……",
+      "condition": "看到Abandoned Swimming Pool的壁画"
     },
     "chair_panic": {
-      "name": "Reclined Panic",
-      "description": "Chairs are watching you carefully...",
-      "condition": "Equip the Fire Axe effect in the Warehouse, making the chairs run away."
+      "name": "倾倒的恐慌",
+      "description": "椅子们在暗中观察你……",
+      "condition": "在Warehouse装备消防斧，把椅子吓得到处逃窜。"
     },
     "willow_docks": {
-      "name": "Tranquil Lake and the Willows",
-      "condition": "Visit the Docks."
+      "name": "空灵湖上映垂柳",
+      "condition": "到达Docks"
     },
     "nexus_favorites": {
-      "name": "Which Is Your Favourite?",
-      "condition": "Visit all the dream worlds accessible from the Nexus."
+      "name": "你最喜欢哪个？",
+      "condition": "到达过Nexus连接的所有梦世界"
     },
     "cheese_maze_slime_girl": {
-      "name": "Slime Girl",
-      "condition": "Swing the Fire Axe at the green-haired girl in the Cheese Maze."
+      "name": "史莱姆娘",
+      "condition": "对Cheese Maze里的绿发女孩挥动消防斧"
     },
     "slime_girl_ambush": {
-      "name": "Welcome to Reality",
-      "condition": "Leave Wormiko's room or save while the curtains are closed."
+      "name": "欢迎来到现实",
+      "condition": "在拉上窗帘的状态下保存或出门"
     },
     "snow_cat": {
-      "name": "Snowcat",
-      "condition": "Make a snow cat outside of Wormiko's apartment."
+      "name": "雪猫",
+      "condition": "在虫虫子的公寓外堆一只雪猫"
     },
     "green_little_dog": {
-      "name": "Green Little Dog",
-      "description": "The little dog is greeting you~",
-      "condition": "See the green dog in the Cheese Maze."
+      "name": "绿色小狗勾",
+      "description": "狗勾对你打招呼~",
+      "condition": "看到Cheese Maze的绿色狗狗"
     },
     "beach_free_pancake": {
-      "name": "Free Pancake!",
-      "description": "Watch me eat them all!!!",
-      "condition": "Check out the pancakes on the beach and eat them all."
+      "name": "免费薄饼！",
+      "description": "看我把它们全吃完！",
+      "condition": "找到海滩上的煎饼并吃光它们"
     },
     "hothouse": {
-      "name": "Dimly Discernible",
-      "description": "Chasing butterflies, strolling through the morning.",
+      "name": "缥缈",
+      "description": "清晨漫步，追逐蝴蝶",
       "condition": "Enter the Hothouse."
     },
     "swamp_world_bird": {
-      "name": "OMG, Surreal Bird!",
-      "description": "I saw a light, then the sun... Wait, is that a bird?",
-      "condition": "See the big weird bird in the Swamp World."
+      "name": "OMG，超现实鸟！",
+      "description": "我看到了一束光，然后是太阳……等等，那是只鸟？",
+      "condition": "看到Swamp World的奇怪大鸟"
     },
     "moon_ornament": {
-      "name": "Moon Viewing Platform",
-      "condition": "Visit the top floor of Ornamental Moon."
+      "name": "赏月平台",
+      "condition": "到达Ornamental Moon顶层"
     },
     "cat_hat": {
-      "name": "Cat Hat",
-      "description": "Why would you leave it in a place like this?",
-      "condition": "Visit the Throne of Entrails. If you have already visited it, wear what was gave to you there."
+      "name": "猫帽",
+      "description": "为什么你把它留在这里？",
+      "condition": "到达Throne of Entrails。如果你已经去过了，装备在此获得的效果。"
     },
     "winking_ghost": {
-      "name": "Ghost Photography",
-      "condition": "Encounter the winking ghost in the Cheese Maze."
+      "name": "幽灵摄影",
+      "condition": "遇到Cheese Maze的眨眼鬼魂"
     },
     "body_part_exhibition": {
-      "name": "Hands on Display",
-      "condition": "Find the Body Part Exhibition"
+      "name": "人手展览",
+      "condition": "找到Body Part Exhibition"
     },
     "city_building": {
-      "name": "Night City",
-      "condition": "Visit City Building and see the city far away"
+      "name": "夜城",
+      "condition": "到达City Building并看到远处的城市"
     },
     "port_tsushin": {
-      "name": "Luxury Boats",
-      "condition": "See the view from the Port"
+      "name": "豪华游艇",
+      "condition": "看到Port的景观"
     },
     "frog_hat": {
-      "name": "It's a Frog!",
-      "description": "with a hat...?",
-      "condition": "See the hat frog in Old Apartment Building and at the Beach"
+      "name": "一只青蛙！",
+      "description": "……戴着帽子？",
+      "condition": "看到Old Apartment Building和Beach的戴帽子青蛙"
     }
   }
 }
