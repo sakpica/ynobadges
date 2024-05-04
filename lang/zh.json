@@ -3391,7 +3391,7 @@
     "hitogata_elvis_place": {
       "name": "发光的身影",
       "description": "我已见惯的景象",
-      "condition": "See Bubbleman Hitogata in the transition between Elvis Masada's Place and Power Plant"
+      "condition": "看到Elvis Masada's Place和Power Plant之间的Bubbleman Hitogata。"
     },
     "cheesecake_mount_girl": {
       "name": "早餐成瘾者",
@@ -3731,63 +3731,63 @@
       "condition": "触发Violet Galaxy的事件"
     },
     "dragon_statue_world": {
-      "name": "Dragons Woah!",
-      "condition": "Visit Dragon Statue World"
+      "name": "龙哇！",
+      "condition": "到达Dragon Statue World"
     },
     "karma_pleasure_street": {
-      "name": "Instant Karma",
-      "description": "... You kind of deserved that.",
-      "condition": "Chainsaw the blue haired woman in one of the houses in Pleasure Street"
+      "name": "速溶报应",
+      "description": "……这是你应得的。",
+      "condition": "锯掉Pleasure Street一间房子里的蓝发女人"
     },
     "beach_challenge": {
-      "name": "Beach Bum",
-      "description": "They say salt water cures everything",
-      "condition": "Visit Mixed Beach, Dream Beach, Grand Beach, Realistic Beach, and Blood Red Beach"
+      "name": "海滩流浪者",
+      "description": "他们说咸水可以治愈一切",
+      "condition": "到达Mixed Beach、Dream Beach、Grand Beach、Realistic Beach和Blood Red Beach"
     },
     "wintry_attendant": {
       "name": "Fanatic Guiding Dance",
       "description": "Simple attendant who can see beyond what is intrinsically expected of things",
-      "condition": "Watch the Wintry Attendant at Wintry Cliffs show all her possible forms"
+      "condition": "看到Wintry Cliffs的Wintry Attendant展现她所有的形态"
     },
     "industrial_waterfront_nurse": {
-      "name": "Helping Hand",
-      "description": "Let's get you all fixed up!",
-      "condition": "Interact with the nurse at the Industrial Waterfront with the Plaster Cast effect"
+      "name": "伸出援手",
+      "description": "让我来治好你吧！",
+      "condition": "在装备石膏效果的情况下与Industrial Waterfront的护士互动"
     },
     "cloud_sky_kingdom": {
-      "name": "Frowning Cumulus",
-      "description": "If you keep scaring them they will turn into water!",
-      "condition": "Use the Lantern effect on any of the lighter clouds in Sky Kingdom to make them disappear"
+      "name": "皱眉的积云",
+      "description": "一直吓唬它们的话，它们会被你吓成水的！",
+      "condition": "对Sky Kingdom的任意一只浅色云朵使用灯笼效果，让它消失"
     },
     "banana_b_g_islands": {
-      "name": "Bear that became longing",
-      "description": "He can't keep his banana in peace when this dreamer comes to take his patience away.",
-      "condition": "Get Fru Fru Bear's banana in Board Game Islands"
+      "name": "饥渴难耐的熊",
+      "description": "当做梦者让他失去耐心的时候，他的香蕉饥渴难耐。",
+      "condition": "在Board Game Islands获得Fru Fru Bear的香蕉"
     },
     "hopeful_road_light_lady": {
       "name": "Campsite Wild Ride",
-      "description": "Congratulations! Congratulations! Congratulations! Congratulations!",
-      "condition": "Interact with the Light Lady on the Hopeful Road of the Pitch Black Plateau"
+      "description": "恭喜！恭喜！恭喜！恭喜！",
+      "condition": "在Pitch Black Plateau的Hopeful Road与Light Lady互动"
     },
     "lemonade_office_phone": {
-      "name": "Phone of Doom",
-      "description": "I'm not sorry.",
-      "condition": "Use the yellow phone in Lemonade Edifice"
+      "name": "末日电话",
+      "description": "打了电话，我不抱歉。",
+      "condition": "使用Lemonade Edifice的黄色电话"
     },
     "paint_shop_pls_street": {
-      "name": "It's All Sunshine and Rainbows",
-      "description": "Bring a little bit of color into your life!",
-      "condition": "View the shopkeeper's face cavity by using the Rainbow effect in the Paint Shop on Pleasure Street"
+      "name": "尽是阳光彩虹",
+      "description": "给你的生活带来一点色彩！",
+      "condition": "在Pleasure Street的颜料店里通过装备彩虹效果来看到店主脸上的洞"
     },
     "sleeping_audiophile": {
-      "name": "Sick Beats!",
-      "description": "I'll listen to anything, see?",
-      "condition": "Reach Ending #---"
+      "name": "病态节拍！",
+      "description": "我什么都会听的，明白吗？",
+      "condition": "到达结局#---"
     },
     "wanderer_audiophile": {
       "name": "2kki.wav",
-      "description": "I have the biggest playlist ever!!",
-      "condition": "Reach Ending #..."
+      "description": "我有有史以来最长的歌单！",
+      "condition": "到达结局#..."
     }
   },
   "flow": {
@@ -5234,9 +5234,9 @@
       "condition": "抵达 Scarecrow Doll Void。"
     },
     "old_arcade_chaser": {
-      "name": "Hey! This is my arcade!",
-      "description": "When someone is gaming too much.",
-      "condition": "Use the Knuckledusters and interact with the chaser of the Old Arcade"
+      "name": "嘿！这是我的街机！",
+      "description": "有人游戏玩太多了。",
+      "condition": "装备指虎效果与Old Arcade的追逐着互动。"
     }
   },
   "ultraviolet": {
@@ -5618,12 +5618,12 @@
     },
     "curtain_den_raccoon": {
       "name": "ImPAWster!",
-      "description": "Eh?!?!",
-      "condition": "Interact with the raccoon dog while using the Wendigo effect in Curtain Den"
+      "description": "呃？！？！",
+      "condition": "在Curtain Den用温迪戈效果与狸猫犬互动"
     },
     "vent_ventilation_passage": {
-      "name": "Weird Vision",
-      "condition": "Find a certain vent in the Ventilation Passage"
+      "name": "奇怪的景象",
+      "condition": "在Ventilation Passage找到特定的通风管道"
     }
   },
   "tsushin": {
