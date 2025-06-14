@@ -1134,7 +1134,7 @@
     },
     "lobster": {
       "name": "Get Lobstered",
-      "description": "Lobster? I hardly know her...",
+      "description": "龙虾？我不怎么了解她……",
       "condition": "潜入Flooded Baths的水池"
     },
     "chandelier": {
@@ -1962,7 +1962,7 @@
     },
     "lonely_cottage": {
       "name": "孤岛别墅",
-      "description": "诡异...",
+      "description": "诡异……",
       "condition": "找到Abandoned Factory孤岛上的小屋"
     },
     "reflect_one": {
@@ -2014,7 +2014,7 @@
     "virtual_mapper": {
       "name": "虚像制图仪",
       "description": "数字科技日益进步中",
-      "condition": "进入 Virtual City 的地图室，调查NPC"
+      "condition": "进入Virtual City的地图室，调查NPC"
     },
     "amusement_secret": {
       "name": "你不应该来这的",
@@ -6624,9 +6624,9 @@
       "condition": "在Subterranean Research Center通过改变和使用效果看到屏幕上脸的所有反应"
     },
     "sunrise_drink": {
-      "name": "Sunburn Cocktail",
-      "description": "*Clink!*",
-      "condition": "Visit the bars in the following locations: Japan Town, The Baddies Bar, Eyeball Archives, Cyber Bar, Cocktail Lounge, Aquamarine Cave, Spaceship, Oriental Pub, Water Reclamation Facility",
+      "name": "阳光鸡尾酒",
+      "description": "*碰杯！*",
+      "condition": "抵达以下地点的酒吧：Japan Town、The Baddies Bar、Eyeball Archives、Cyber Bar、Cocktail Lounge、Aquamarine Cave、Spaceship、Oriental Pub、Water Reclamation Facility",
       "checkbox": {
         "underground_bar": "Japan Town",
         "baddies_bar_bar": "The Baddies Bar",
@@ -6640,19 +6640,19 @@
       }
     },
     "jester_mask_apartments": {
-      "name": "Dream Joker",
-      "description": "I can dream anything.",
-      "condition": "Equip the Jester mask in Blue Apartments or Fake Apartments"
+      "name": "梦境鬼牌",
+      "description": "我可以梦到任何事物。",
+      "condition": "在Blue Apartments或Fake Apartments装备Jester面具"
     },
     "snail_coral_shoal": {
-      "name": "Coral Snail",
+      "name": "珊瑚蜗牛",
       "description": "One big shell-y friend!",
-      "condition": "Find the snail in Coral Shoal"
+      "condition": "在Coral Shoal找到蜗牛"
     },
     "sea_challenge": {
-      "name": "Through the Sea of Dreams",
-      "description": "Drowning within the depths of my mind...",
-      "condition": "Visit the following underwater worlds: Atlantis, Star Ocean, Ocean Floor, Depths, Neon Sea, Ocean Subsurface, Aquatic Cube City, Rotten Sea, Tomb of Velleities, Gentle Sea, Watching Waters, Streetlight Docks (Angler's Depths), Sunken Paradise, and Sunken Spore Sea",
+      "name": "穿越梦之海",
+      "description": "沉入意识深渊……",
+      "condition": "抵达以下水下世界：Atlantis、Star Ocean、Ocean Floor、Depths、Neon Sea、Ocean Subsurface、Aquatic Cube City、Rotten Sea、Tomb of Velleities、Gentle Sea、Watching Waters、Streetlight Docks (Angler's Depths)、Sunken Paradise、and Sunken Spore Sea",
       "checkbox": {
         "atlantis": "Atlantis",
         "star_ocean": "Star Ocean",
@@ -6671,8 +6671,8 @@
       }
     },
     "industrial_challenge": {
-      "name": "Industrial Realms All Around",
-      "condition": "Visit the following industrial worlds: Industrial Maze, Industrial Towers, Rusted Factory, Rusted City, Pollution District, Steam Engine, Suspended Steamworks, Rusty Urban Complex, and Aureate Clockworks",
+      "name": "无处不在的工业王国",
+      "condition": "抵达以下的工业世界：Industrial Maze、Industrial Towers、Rusted Factory、Rusted City、Pollution District、Steam Engine、Suspended Steamworks、Rusty Urban Complex、Aureate Clockworks",
       "checkbox": {
         "industrial_maze": "Industrial Maze",
         "industrial_towers": "Industrial Towers",
@@ -6686,19 +6686,19 @@
       }
     },
     "candlelit_factory_room": {
-      "name": "Calm Room",
-      "description": "How is that snowman not melting?",
-      "condition": "Visit the candlelit room in Candlelit Factory"
+      "name": "平静房间",
+      "description": "那个雪人怎么没有融化？",
+      "condition": "抵达Candlelit Factory中蜡烛亮着的房间"
     },
     "fountain_butterfly_garden": {
-      "name": "Cultivated Wishes",
-      "description": "Didn't expect that wish to come true so quickly...",
-      "condition": "Throw a coin in the fountain in Butterfly Garden"
+      "name": "种下愿望",
+      "description": "我没指望那个愿望能实现得这么快……",
+      "condition": "在Butterfly Garden的喷泉中丢下硬币"
     },
     "drum_effect": {
-      "name": "Drum 'n' Fun!",
-      "description": "Urotsuki sized drum? Or drum sized Urotsuki?",
-      "condition": "Obtain the Drum effect. If you have already unlocked it, return to Onyx Tile World."
+      "name": "快乐铁桶！",
+      "description": "Urotsuki大小的铁桶？还是铁桶大小的Urotsuki？",
+      "condition": "获得效果铁桶。若已获得，请返回Onyx Tile World。"
     }
   },
   "unconscious": {
@@ -7667,9 +7667,9 @@
       "condition": "抵达Lottery Parlor"
     },
     "landscape_karoushi": {
-      "name": "Workload Respite",
-      "description": "A necessary break from the office.",
-      "condition": "Reach the landscape area of Karoushi"
+      "name": "暂缓工作",
+      "description": "办公室之外的休憩是必需的。",
+      "condition": "抵达Karoushi的景观区域"
     }
   },
   "flow": {
@@ -8254,9 +8254,9 @@
       "condition": "获得怀旧效果。若已解锁，请返回Train Station获得该效果处。"
     },
     "dd_systems": {
-      "name": "Bookmark your Journey",
-      "description": "Once you've placed a bookmark in your journey, let's set out again.",
-      "condition": "Obtain all of the systems and return to your room"
+      "name": "为旅途插上书签",
+      "description": "在旅途中插上书签之后，就再次出发吧。",
+      "condition": "获得所有系统样式并返回自己的房间"
     }
   },
   "someday": {
@@ -8521,8 +8521,8 @@
       "condition": "从自贩机内买到寄居蟹"
     },
     "mimic": {
-      "name": "Upside-Down",
-      "description": "It's something isn't it?",
+      "name": "上下逆转",
+      "description": "难道不是吗？",
       "condition": "抵达Upside-Down事件的区域。"
     },
     "cube_racing": {
@@ -9179,19 +9179,19 @@
       "condition": "抵达House"
     },
     "muma_fric_in_rich": {
-      "name": "Memory? Not Needed!",
-      "description": "All the coins in the world!",
-      "condition": "Collect all of the coins without collecting any memory, then read the text in First Steps"
+      "name": "记忆？不需要的！",
+      "description": "世界上所有的金币！",
+      "condition": "在未收集任何记忆的条件下获取所有金币，并阅读First Steps的文本"
     },
     "star_ride_muma": {
-      "name": "Starry Dream",
-      "description": "It feels so real...",
-      "condition": "Trigger the Star Ride event on the balcony of Bedroom"
+      "name": "星空梦境",
+      "description": "这感觉如此真实……",
+      "condition": "在Bedroom的阳台上触发Star Ride事件"
     },
     "rabbit_blue_flow": {
-      "name": "Bunwind",
-      "description": "So comfy...",
-      "condition": "See a rabbit on the lounge chair in Blue Flow"
+      "name": "兔风",
+      "description": "好舒服……",
+      "condition": "在Blue Flow的休息室椅子上看到一只兔子"
     }
   },
   "genie": {
@@ -9812,9 +9812,9 @@
       }
     },
     "the_star_card": {
-      "name": "Noelia's Comet",
-      "description": "This one wasn't quite big enough to wipe out the dinosaurs...",
-      "condition": "Witness the Meteor Crash event and obtain The Star card. If you have already unlocked it, trigger again the Meteor Crash event and return to The Nexus."
+      "name": "Noelia的彗星",
+      "description": "这颗小行星没有大到导致恐龙灭绝的程度……",
+      "condition": "见证Meteor Crash事件并获得塔罗牌星。若已解锁，请再次触发Meteor Crash事件并返回The Nexus。"
     }
   },
   "oversomnia": {
@@ -9845,7 +9845,7 @@
     },
     "vampires_house": {
       "name": "欢迎！",
-      "description": "啥，会飞的鱼？这没什么好惊讶的......",
+      "description": "啥，会飞的鱼？这没什么好惊讶的……",
       "condition": "抵达Rainy Village: Vampire's House。"
     },
     "neptune": {
