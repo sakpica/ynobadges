@@ -799,7 +799,7 @@
     },
     "singularity": {
       "name": "微型黑洞",
-      "condition": "在Río的世界里（Decrepit Dwellings、Verdant Promenade、Forgotten Megalopolis、Tomb of Velleities：Lunar Sanctuary、Luminous Lake：Dragon's Peak），找到所有5个黑洞女孩并与其互动。若已互动过，则必须抵达每位女孩的原本位置。",
+      "condition": "在Río的世界里（Decrepit Dwellings、Verdant Promenade、Forgotten Megalopolis、Tomb of Velleities：Lunar Sanctuary、Luminous Lake：Dragon's Peak），找到所有5个黑洞女孩并与其互动。若已互动过，请抵达每位女孩原本所在的位置。",
       "checkbox": {
         "b_h_g_decrepit_dwellings": "Decrepit Dwellings",
         "b_h_g_verdant_promenade": "Verdant Promenade",
@@ -10045,41 +10045,41 @@
       "condition": "抵达Woodwind Isles"
     },
     "abandoned_lightlady_tent": {
-      "name": "Mourning Light",
-      "description": "Such a comforting face in such an unfamiliar place... I wonder why everyone is here.",
-      "condition": "Visit the light lady tent in Abandoned Campsite"
+      "name": "哀悼之光",
+      "description": "在如此陌生的地方有着如此抚慰人心的脸……我想知道为什么大家都在这里。",
+      "condition": "抵达Abandoned Campsite的白魔女帐篷"
     },
     "giant_crow_lady_bwh": {
-      "name": "Super Coffee Drinker Crow Deity",
-      "description": "What separates a god from a mortal, if both can appreciate the same simple pleasures?",
-      "condition": "See the giant crow lady in Black Wing Heaven"
+      "name": "鸦之喝咖啡之神",
+      "description": "如果两者都能感受到同样的平凡喜悦，还有什么能够区分天神与凡人？",
+      "condition": "看到Black Wing Heaven空中的巨大乌鸦女士"
     },
     "maiden_sunset_school_reactions": {
-      "name": "The sun sets in the west",
-      "description": "Are you watching the blackboard or the teacher?! Pay attention in class!!!",
-      "condition": "See all the reactions from the Shrine maiden teacher in Sunset School"
+      "name": "夕阳西下",
+      "description": "你在看黑板还是在看老师？！上课注意听讲！！！",
+      "condition": "在Sunset School看到巫女教师的所有反应"
     },
     "monmon_lantern": {
-      "name": "I am going... to smoke you!",
-      "description": "Last words before I spark it?",
-      "condition": "Kill a monon with the Lantern effect in Marijuana Goddess World. If you have already done so, return to Marijuana Goddess World"
+      "name": "我要把你……烧成灰！",
+      "description": "在我点活之前，你还有遗言吗？",
+      "condition": "在Marijuana Goddess World使用灯笼效果攻击一只momon。若已经做过这件事，请返回Marijuana Goddess World。"
     },
     "pierside_girl_reactions": {
-      "name": "Let's play!",
-      "description": "This girl looks ghastly at first glance, but she’s actually creepy.",
-      "condition": "See all the reactions of the girl in Pierside Residence"
+      "name": "一起玩吧！",
+      "description": "这个女孩第一眼看上去有些诡异，但她实际上真的很吓人。",
+      "condition": "看到Pierside Residence的女孩的所有反应"
     },
     "visit_memory_town": {
-      "name": "Reise in die Vergangenheit",
-      "description": "Eins, Zwei, Drei, Vier, Fünf, Sechs, Sieben, Acht, Neun, Zehn.",
-      "condition": "Visit Memory Town"
+      "name": "回到过去",
+      "description": "一、二、三、四、五、六、七、八、九、十。",
+      "condition": "抵达Memory Town"
     },
     "visit_sky_kingdoms": {
-      "name": "Restoration of What it Used to Be",
-      "description": "2 Kingdoms that ruled the sky; one in ruins, & one in paradise.",
-      "condition": "Visit Sky Kingdom and Restored SU+200bky Kingdom",
+      "name": "对其过去形态的复原",
+      "description": "两个王国曾经统治天空；一个已经成为废墟，另一个在天国之中。",
+      "condition": "抵达Sky Kingdom和Restored Sky Kingdom",
       "checkbox": {
-        "visit_restored_sky_kingdom": "Restored SU+200bky Kingdom",
+        "visit_restored_sky_kingdom": "Restored Sky Kingdom",
         "visit_sky_kingdom": "Sky Kingdom"
       }
     }
@@ -14730,9 +14730,9 @@
       "condition": "获得omega sword（在获得该效果处装备omega sword）"
     },
     "eyes_event_lightningtsuki_room": {
-      "name": "All Eyes On You",
-      "description": "Stop staring at me with them big ol' eyes!",
-      "condition": "View the Eyes event in Lightningtsuki's Room."
+      "name": "所有的眼睛都盯着你",
+      "description": "别拿那些大眼睛看我了！",
+      "condition": "在Lightningtsuki's Room见证事件Eyes。"
     }
   },
   "space": {
